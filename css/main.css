@@ -10,13 +10,14 @@
     background-color: black;
     color: white;
     text-decoration-color: white;
-    height: 50px;
+    height: 100px;
+    align-items: center;
 }
 .navbar-brand{
     color: white;
     font-family: 'Bangers', cursive;
     font-size: large;
-    padding-left: 10px;
+    padding-left: 30px;
 
 }
 
