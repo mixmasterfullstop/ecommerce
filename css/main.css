@@ -21,6 +21,8 @@
 }
 
 .card-columns{
+    grid-column-gap: 10px;
+
     margin-top: 10px;
     align-items: center;
 margin-right: 10%;
@@ -38,14 +40,22 @@ margin-left: 10%;
     color: blueviolet;
 }
 .card-img-top{
-    height: 200px;
     width: 200px;
 }
 .card{
-    height: 280px;
-    width: 250px;
-    border-radius: 100px;
+
 }
 .nav-link{
     color: white;
+}
+.col-sm{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.card-deck{
+    padding-left:10px;
+    padding-top: 10px;
+    margin: 10px;
+    padding-right: 10px;
 }
